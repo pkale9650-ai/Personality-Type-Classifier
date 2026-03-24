@@ -125,19 +125,6 @@ The `Model.ipynb` notebook covers:
 
 ---
 
-## 🌐 Live Deployment
-
-> 🔗 **[Click here to try the live app](#)**
-> *(Deploy on Streamlit Cloud and update this link)*
-
-### Deploy on Streamlit Cloud (Free)
-1. Push this repo to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Click **"New App"** → select this repo
-4. Set main file as `ui.py`
-5. Click **Deploy** 🎉
-
----
 
 ## 👤 Author
 
