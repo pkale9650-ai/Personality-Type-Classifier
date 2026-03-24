@@ -20,7 +20,7 @@
 
 | Home Screen | Trait Sliders | Prediction Result |
 |:-----------:|:-------------:|:-----------------:|
-| ![Home](screenshots/home.png) | ![Sliders](screenshots/sliders.png) | ![Result](screenshots/result.png) |
+| ![Home](Screenshots/home.png) | ![Sliders](Screenshots/sliders.png) | ![Result](Screenshots/result.png) |
 
 > *Add your own screenshots in a `/screenshots` folder after deployment*
 
