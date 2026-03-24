@@ -22,7 +22,6 @@
 |:-----------:|:-------------:|:-----------------:|
 | ![Home](Screenshots/home.png) | ![Sliders](Screenshots/sliders.png) | ![Result](Screenshots/result.png) |
 
-> *Add your own screenshots in a `/screenshots` folder after deployment*
 
 ---
 
