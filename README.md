@@ -143,8 +143,8 @@ The `Model.ipynb` notebook covers:
 
 **Pratik Kale**
 
-[![GitHub](https://img.shields.io/badge/GitHub-pkale9650--ai-181717?style=flat-square&logo=github)](https://github.com/pkale9650-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🐙 [GitHub](https://github.com/pkale9650-ai)
 
 ---
 
