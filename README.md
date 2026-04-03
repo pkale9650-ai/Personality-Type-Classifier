@@ -10,7 +10,6 @@
 
 **An AI-powered web app that predicts your personality type — Introvert, Extrovert, or Ambivert — using Logistic Regression with 99.77% accuracy.**
 
-[🚀 Live Demo](#) · [📓 Notebook](#) · [📊 Dataset](#) · [🐛 Report Bug](#)
 
 </div>
 
